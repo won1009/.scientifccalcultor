@@ -1,0 +1,2 @@
+com/malkinfo/scientifccalcultor/BuildConfig.java
+ com.malkinfo.scientifccalcultor.BuildConfig
