@@ -5,12 +5,13 @@
 /AC 초기화 구현 
 
 
-
-![calculator02](https://user-images.githubusercontent.com/61373662/125150457-884eb600-e15d-11eb-827b-7b45fb63c93c.gif)
-
+![calculator02]![세로-구현](https://github.com/won1009/.scientifccalcultor/assets/132436084/6c707984-de96-465e-9b53-7f9a32d5571e)
 
 
-![calculator01](https://user-images.githubusercontent.com/61373662/125150440-6bb27e00-e15d-11eb-82ea-48d42c65bd6a.gif)       
+
+
+![calculator01]![가로-구현](https://github.com/won1009/.scientifccalcultor/assets/132436084/810abe2d-0b24-4827-a5f5-b594fe379e8c)
+
 
 
 
