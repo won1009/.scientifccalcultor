@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    이 drawable은 사각형 모양을 가지며, 배경에 그라데이션을 적용합니다.
+    그라데이션은 어두운 회색에서 밝은 회색으로 수평 방향으로 적용됩니다.
+-->
+<shape
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        그라데이션 속성:
+        - startColor: 그라데이션 시작 색상 (#4A4C4E - 어두운 회색)
+        - endColor: 그라데이션 종료 색상 (#151515 - 밝은 회색)
+        - angle: 그라데이션 방향 (90 - 수평 방향)
+    -->
+    <gradient
+        android:startColor="#4A4C4E"
+        android:endColor="#151515"
+        android:angle="90"
+        />
+</shape>
