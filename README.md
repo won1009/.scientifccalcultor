@@ -1,5 +1,8 @@
 # ScientifcCalcultor
-Scientifc Calcultor
+공학용 계산기 가로 / 세로 구현 
+시칙 연산
+공학용 계산기sin,cos,tan등 다양하게 구현
+AC 초기화 구현 
 
 
 
