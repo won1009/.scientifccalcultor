@@ -1,2 +1,17 @@
-# .scientifccalcultor
-2023 kotllin 모바일 프로그래밍 기말 미니 프로젝트 과제입니다. 공학용 계산기를 구현하였습니다.
+# ScientifcCalcultor
+Scientifc Calcultor
+
+
+
+![calculator02](https://user-images.githubusercontent.com/61373662/125150457-884eb600-e15d-11eb-827b-7b45fb63c93c.gif)
+
+
+
+![calculator01](https://user-images.githubusercontent.com/61373662/125150440-6bb27e00-e15d-11eb-82ea-48d42c65bd6a.gif)       
+
+
+
+
+
+
+
